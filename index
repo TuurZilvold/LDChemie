@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="author" content="Tuur Lauke Luur">
+		<meta name="keywords" content="ldchemie, LD chemie, Ld chemie, marnix scheikunde, marnix ld chemie">
+		<meta name="description" content="Deze site bevat alle informatie voor scheikunde in klas 3">
+		<title>LDChemie</title>
+		<link rel="stylesheet" type="text/css" href="styleld.css">
+	</head>
+	<body>
+		<div id="wrapper">
+		<header>
+			<h1>Scheikunde klas 3</h1>
+		</header>
+	</body>
+</html>
